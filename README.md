@@ -1,5 +1,6 @@
 ## Hangyul Park
 full stack development(MERN) & embedded software(C/C++)
+high school programmer
 
 working on [mRich](https://github.com/soosoh/mRich)
 <br>
