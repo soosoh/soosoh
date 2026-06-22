@@ -1,9 +1,6 @@
 ## Hangyul Park
-full stack development(MERN) & embedded software(C/C++)
+High school developer with relevant experience in Fullstack, Gamedev, Python, and Embedded
 
-working on [mRich](https://github.com/soosoh/mRich)
+[trying to automate summer school]([https://github.com/soosoh/mRich](https://github.com/soosoh/autoSummerSchool))
 <br>
-learning [live coding](https://github.com/toplap/awesome-livecoding?tab=readme-ov-file#what-is-live-coding)
-
-- Grizzly Hacks II 1st Place
-- Korean Olympiad of Informatics Finalist
+[music and code like spaghetti and meatballs](https://github.com/toplap/awesome-livecoding?tab=readme-ov-file#what-is-live-coding)
