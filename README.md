@@ -1,5 +1,5 @@
 ## Hangyul Park
-High school developer with relevant experience in Fullstack, Gamedev, Python, and Embedded
+high school developer with relevant experience in Fullstack, Gamedev, Python, and Embedded
 
 [trying to automate summer school](https://github.com/soosoh/autoSummerSchool)
 <br>
